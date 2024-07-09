@@ -75,7 +75,8 @@
 
 /*  */
 .web-section {
-  margin-bottom: 200px;
+  margin-bottom: 80px;
+  margin-top: 100px;
 }
 .web {
   margin-top: 40px;
@@ -121,8 +122,8 @@
 
 /*  */
 .myinspire {
-  margin-bottom: 30px;
-  padding-bottom: 40px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
 }
 .insh1 {
   color: rgb(13, 19, 33);
