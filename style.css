@@ -27,7 +27,7 @@
 .hero-section {
   background-image: url("./assets/Hero-bg.png");
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 }
 .hero-img {
   align-items: center;
@@ -88,6 +88,8 @@
 }
 .webp {
   text-align: center;
+  padding-left: 240px;
+  padding-right: 200px;
 }
 
 .sec01 {
@@ -172,7 +174,7 @@
 
 .targetp {
   color: rgb(13, 19, 33);
-  font-family: Azeret Mono;
+  padding-bottom: 40px;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -206,11 +208,12 @@
 
 /*  */
 .next {
-  margin-bottom: 50px;
+  margin-bottom: 90px;
+  margin-top: 80px;
 }
 .next h1 {
+  margin-top: 50px;
   color: rgb(13, 19, 33);
-  font-family: Azeret Mono;
   font-size: 32px;
   font-weight: 800;
   line-height: 37px;
@@ -249,7 +252,8 @@
 }
 /*  */
 .support-section {
-  margin-bottom: 46px;
+  margin-bottom: 50px;
+  margin-top: 34px;
 }
 
 .support {
@@ -265,7 +269,6 @@
 
 .support h2 {
   color: rgb(255, 255, 255);
-  font-family: Azeret Mono;
   font-size: 32px;
   font-weight: 700;
   line-height: 36px;
@@ -275,7 +278,6 @@
 
 .support p {
   color: rgb(255, 255, 255);
-  font-family: Azeret Mono;
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
@@ -329,5 +331,5 @@
 }
 
 .footer-h3 {
-  margin-left: 20px;
+  margin-left: 50px;
 }
