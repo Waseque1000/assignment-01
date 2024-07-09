@@ -118,3 +118,205 @@
   cursor: pointer;
   border: 1px solid rgb(13, 19, 33);
 }
+
+/*  */
+.myinspire {
+  margin-bottom: 30px;
+  padding-bottom: 40px;
+}
+.insh1 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 37px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.insp {
+  color: rgb(13, 19, 33);
+  padding-left: 180px;
+  padding-right: 180px;
+  font-size: 16px;
+  font-weight: 400;
+
+  text-align: center;
+}
+
+/* 
+ */
+
+.video-container {
+  width: 100%;
+  max-width: 700px;
+  margin: 10px auto;
+  margin-top: 48px;
+  margin-left: 400px;
+}
+
+/*  */
+.target {
+  margin-top: 140px;
+}
+
+.targeth1 {
+  text-align: center;
+  color: rgb(13, 19, 33);
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 37px;
+  letter-spacing: 0%;
+}
+
+.targetp {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.html-section {
+  display: flex;
+  padding-top: 20px;
+  margin-bottom: 100px;
+  justify-content: space-evenly;
+}
+.html {
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+  text-align: left;
+}
+
+.link {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: left;
+  text-decoration-line: underline;
+}
+
+/*  */
+.next {
+  margin-bottom: 50px;
+}
+.next h1 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 37px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.next-p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+/*  */
+.react {
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 70px;
+  padding-top: 30p;
+  padding: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  margin-bottom: 0;
+}
+.react img {
+  align-items: center;
+  padding-top: 20px;
+}
+/*  */
+.support-section {
+  margin-bottom: 46px;
+}
+
+.support {
+  padding-top: 46px;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-radius: 16px;
+  /* background-image: url("./assets//handshake.jpg"); */
+  background: url("./assets/handshake.jpg");
+
+  padding-bottom: 30px;
+}
+
+.support h2 {
+  color: rgb(255, 255, 255);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 36px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.support p {
+  color: rgb(255, 255, 255);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.input1 {
+  margin-left: 370px;
+  text-align: center;
+  padding-top: 10px;
+  margin-right: 6px;
+  padding-right: 120px;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 8px;
+  background: rgb(255, 255, 255);
+}
+
+.input2 {
+  position: static;
+  width: 90px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  direction: none;
+  align-items: center;
+  padding: 17px 20px 17px 20px;
+}
+.submit {
+  display: flex;
+}
+
+.footer {
+  margin-top: 45px;
+}
+
+.socialmedia {
+  display: flex;
+}
+
+.socialmedia a {
+  margin-right: 25px;
+}
