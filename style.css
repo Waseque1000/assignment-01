@@ -320,3 +320,12 @@
 .socialmedia a {
   margin-right: 25px;
 }
+
+.footer-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-h3 {
+  margin-left: 20px;
+}
